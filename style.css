@@ -1,0 +1,37 @@
+.bloque{
+    background-color: aquamarine;
+}
+.uno{
+    height: 100px;
+    width: 950px;
+    border: 25px solid black;
+}
+.dos{
+    height: 200px;
+    width: 950px;
+    border: 25px solid black;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    justify-content: space-evenly;
+    align-content: space-around;
+    height: 200px;
+    width: 950px;
+    border: 25px solid black;
+}
+.tres{
+    height: 200px;
+    width: 450px;
+}
+.cuatro{
+    height: 200px;
+    width: 450px;
+}
+.cinco{
+    height: 200px;
+    width: 950px;
+    border: 25px solid black;
+}
